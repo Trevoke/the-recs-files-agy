@@ -1,0 +1,5 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "recs-files",
+  "description": "Skills for working on a project whose records are the source of truth."
+}
